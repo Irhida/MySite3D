@@ -118,7 +118,7 @@ html {
         .hero {
             height: 100vh;
             min-height: 600px;
-            background-image: url('images/hero_background.png'); 
+            background-image: url('https://github.com/Irhida/MySite3D/blob/main/images/hero_background.png'); 
             background-size: cover;
             background-position: center 5%;
             background-attachment: fixed;
@@ -190,7 +190,7 @@ html {
         .visual-break {
             height: 80vh;
             min-height: 500px;
-            background-image: url('images/visual-break_background.png');
+            background-image: url('https://github.com/Irhida/MySite3D/blob/main/images/visual-break_background.png');
             background-size: cover;
             background-position: center 50%;
             background-attachment: fixed; 
